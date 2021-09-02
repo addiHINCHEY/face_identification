@@ -1,0 +1,38 @@
+.heading {
+    font-size: 25px;
+    width:100%;
+    margin: 0px;
+    box-shadow: 5px 10px 15px lightskyblue;
+}
+.divtag {
+    float: none;
+    background: lightpink;
+    padding: 10px;
+    border-radius: 25px;
+    color: teal;
+    box-shadow: 5px 10px 15px palevioletred;
+}
+.model {
+    font-size: 20px;
+}
+.result {
+    box-shadow: 5px 10px 15px plum;
+    font-size: 22px;
+}
+.namefooter {
+    position: fixed;
+    color: rosybrown;
+    background-color: snow;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+canvas {
+    border: 3px solid rgb(37, 123, 180);
+    border-radius: 15px;
+    box-shadow: 5px 10px 15px cadetblue;
+    margin-top: 200px;
+}
+body {
+    background-image: cover;
+}
